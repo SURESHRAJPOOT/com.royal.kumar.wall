@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:icon="@drawable/sharee" android:id="@id/nav_item_one" android:title="Share" />
+        <item android:icon="@drawable/ratee" android:id="@id/nav_item_two" android:title="Rate Us" />
+        <item android:icon="@drawable/dash" android:id="@id/nav_item_three" android:title="More Apps" />
+    </group>
+</menu>

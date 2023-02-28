@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first">
+        <item>Peacock</item>
+        <item>Falcon</item>
+        <item>Owl</item>
+        <item>Kingfisher</item>
+        <item>Heron</item>
+        <item>Scrub</item>
+        <item>Sparrow</item>
+        <item>Crane</item>
+        <item>Crow</item>
+        <item>Pigeon</item>
+        <item>Paradise</item>
+        <item>Swan</item>
+        <item>Parrot</item>
+        <item>Goose</item>
+        <item>Hummingbird</item>
+        <item>Passerine</item>
+        <item>Woodpecker</item>
+        <item>Thrush</item>
+        <item>Plover</item>
+        <item>Pelicans</item>
+        <item>Grebes</item>
+        <item>Cormorant</item>
+        <item>Ibis</item>
+        <item>Ashy Crowned Sparrow Lark</item>
+        <item>Avocet</item>
+        <item>Black Drongo</item>
+        <item>Black Winged Kite</item>
+        <item>Bulbul</item>
+        <item>Common Myna</item>
+        <item>Common Tailorbird</item>
+        <item>Dove</item>
+        <item>Ducks</item>
+        <item>Europeans Robin</item>
+        <item>Finch</item>
+        <item>Frigate</item>
+        <item>Greater Flamingo</item>
+        <item>Great Indian Bustard</item>
+        <item>Great Hornbill</item>
+        <item>Indian Roller</item>
+        <item>Koel</item>
+        <item>lapwing</item>
+        <item>Penguin</item>
+        <item>Pond Heron</item>
+        <item>Rollers</item>
+        <item>Sarus</item>
+        <item>Seagull</item>
+        <item>Spoonbills</item>
+        <item>Sternidae</item>
+        <item>Vulture</item>
+        <item>Wolly Necked Strok</item>
+        <item>Yellow Lapwing</item>
+        <item>Starling</item>
+        <item>Curlew</item>
+        <item>Rail</item>
+        <item>Swallo</item>
+        <item>Hoopoe</item>
+        <item>Shrike</item>
+        <item>Quail</item>
+        <item>Anhinga</item>
+        <item>Loons</item>
+    </string-array>
+    <string-array name="first1">
+        <item>a1.html</item>
+        <item>a2.html</item>
+        <item>a3.html</item>
+        <item>a4.html</item>
+        <item>a5.html</item>
+        <item>a6.html</item>
+        <item>a7.html</item>
+        <item>a8.html</item>
+        <item>a9.html</item>
+        <item>a10.html</item>
+        <item>a11.html</item>
+        <item>a12.html</item>
+        <item>a13.html</item>
+        <item>a14.html</item>
+        <item>a15.html</item>
+        <item>a16.html</item>
+        <item>a17.html</item>
+        <item>a18.html</item>
+        <item>a19.html</item>
+        <item>a20.html</item>
+        <item>a21.html</item>
+        <item>a22.html</item>
+        <item>a23.html</item>
+        <item>a24.html</item>
+        <item>a25.html</item>
+        <item>a26.html</item>
+        <item>a27.html</item>
+        <item>a28.html</item>
+        <item>a29.html</item>
+        <item>a30.html</item>
+        <item>a31.html</item>
+        <item>a32.html</item>
+        <item>a33.html</item>
+        <item>a34.html</item>
+        <item>a35.html</item>
+        <item>a36.html</item>
+        <item>a37.html</item>
+        <item>a38.html</item>
+        <item>a39.html</item>
+        <item>a40.html</item>
+        <item>a41.html</item>
+        <item>a42.html</item>
+        <item>a43.html</item>
+        <item>a44.html</item>
+        <item>a45.html</item>
+        <item>a46.html</item>
+        <item>a47.html</item>
+        <item>a48.html</item>
+        <item>a49.html</item>
+        <item>a50.html</item>
+        <item>a51.html</item>
+        <item>a52.html</item>
+        <item>a53.html</item>
+        <item>a54.html</item>
+        <item>a55.html</item>
+        <item>a56.html</item>
+        <item>a57.html</item>
+        <item>a58.html</item>
+        <item>a59.html</item>
+        <item>a60.html</item>
+    </string-array>
+</resources>

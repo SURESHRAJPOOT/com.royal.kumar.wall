@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="material_ic_keyboard_arrow_next_black_24dp">@drawable/material_ic_keyboard_arrow_right_black_24dp</item>
+    <item type="drawable" name="material_ic_keyboard_arrow_previous_black_24dp">@drawable/material_ic_keyboard_arrow_left_black_24dp</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="APKTOOL_DUMMY_c">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_d">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_12">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_13">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_18">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_2d">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_3e">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_42">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_43">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_44">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_45">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_46">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_4f">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_51">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_52">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_53">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_54">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_55">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_56">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_8d">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_8e">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_8f">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_90">false</item>
+    <item type="drawable" name="APKTOOL_DUMMY_95">false</item>
+</resources>
